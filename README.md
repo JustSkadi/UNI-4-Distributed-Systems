@@ -12,3 +12,4 @@ Other Technologies:
 - **AJAX**
 - **RabbitMQ**
 - **Spring Boot**
+- **REST API**
