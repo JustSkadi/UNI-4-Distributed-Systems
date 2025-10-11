@@ -13,3 +13,4 @@ Other Technologies:
 - **RabbitMQ**
 - **Spring Boot**
 - **REST API**
+- **JAX-WS**
