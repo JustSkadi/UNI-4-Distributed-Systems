@@ -14,3 +14,4 @@ Other Technologies:
 - **Spring Boot**
 - **REST API**
 - **JAX-WS**
+- **GRPC**
