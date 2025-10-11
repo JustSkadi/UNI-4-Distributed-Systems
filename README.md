@@ -6,6 +6,8 @@
 
 Main programming language: **Java**
 
+IDE: **IntelliJ IDEA Ultimate**
+
 Other Technologies:
 - **AJAX**
 - **RabbitMQ**
