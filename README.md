@@ -2,7 +2,7 @@
 <h2>Inżynieria systemów semestr 4 / System Engineering 4th semester</h2>
 <h3>Systemy Rozproszone / Distributed Systems</h3>
 
-Main programming language: **Java**
+<p>Main programming language: **Java**</p>
 Other Technologies: 
 - **AJAX**
 - **RabbitMQ**
