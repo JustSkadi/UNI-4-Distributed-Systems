@@ -15,3 +15,8 @@ Other Technologies:
 - **REST API**
 - **JAX-WS**
 - **GRPC**
+
+Clonning the repo:
+```powershell
+git clone --branch <nazwa_brancza> --single-branch <adres_repozytorium>
+```
